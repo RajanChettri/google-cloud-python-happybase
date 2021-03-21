@@ -7,6 +7,8 @@ Google Cloud Python HappyBase Client
 
 |pypi| |versions|
 
+## this is the improved Documentation of the Production
+
 -  `Documentation`_
 
 .. _Documentation: http://google-cloud-python-happybase.readthedocs.io/
